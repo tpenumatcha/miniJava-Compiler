@@ -1,0 +1,1 @@
+Added a className field to TypeDenoter AST in the case that it is initialized as a ClassType
